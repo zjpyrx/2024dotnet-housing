@@ -1,0 +1,20 @@
+@font-face{
+    font-family: 'siyuanheiti';
+    src: url("@/assets/fonts/siyuanheiti-xiti.ttf");
+}
+@font-face{
+    font-family: 'unifont';
+    src: url("@/assets/fonts/unifont.ttf");
+}
+@font-face{
+    font-family: 'ZCOOLQingKeHuangYou-Regular';
+    src: url("@/assets/fonts/ZCOOLQingKeHuangYou-Regular.ttf");
+}
+@font-face{
+    font-family: 'zcool-qingke-jianheiti';
+    src: url("@/assets/fonts/站酷庆科建黑体.ttf");
+}
+@font-face{
+    font-family: 'ZCOOLxingliti-Regular';
+    src: url("@/assets/fonts/ZCOOLxingliti-Regular.ttf");
+}
