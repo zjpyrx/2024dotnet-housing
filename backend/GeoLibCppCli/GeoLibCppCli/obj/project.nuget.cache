@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Awxnh5P5YAOtBrLWijKjjz2R3OFmMhYGPlPNvpLA+r41T/0x/A4rf0AXMM0zbmrINE9sBr2TLsLjbpOohJm/6g==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\大三下\\.Net\\期末\\proj\\GeoLibCppCli\\GeoLibCppCli\\GeoLibCppCli.vcxproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxhtl\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.28\\microsoft.windows.sdk.net.ref.10.0.22621.28.nupkg.sha512"
+  ],
+  "logs": []
+}

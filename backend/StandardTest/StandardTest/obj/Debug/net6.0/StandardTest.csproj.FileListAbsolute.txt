@@ -1,0 +1,14 @@
+D:\Work\大三下\.Net\期末\proj\StandardTest\StandardTest\bin\Debug\net6.0\StandardTest.deps.json
+D:\Work\大三下\.Net\期末\proj\StandardTest\StandardTest\bin\Debug\net6.0\StandardTest.runtimeconfig.json
+D:\Work\大三下\.Net\期末\proj\StandardTest\StandardTest\bin\Debug\net6.0\StandardTest.dll
+D:\Work\大三下\.Net\期末\proj\StandardTest\StandardTest\bin\Debug\net6.0\StandardTest.pdb
+D:\Work\大三下\.Net\期末\proj\StandardTest\StandardTest\obj\Debug\net6.0\StandardTest.csproj.AssemblyReference.cache
+D:\Work\大三下\.Net\期末\proj\StandardTest\StandardTest\obj\Debug\net6.0\StandardTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\大三下\.Net\期末\proj\StandardTest\StandardTest\obj\Debug\net6.0\StandardTest.AssemblyInfoInputs.cache
+D:\Work\大三下\.Net\期末\proj\StandardTest\StandardTest\obj\Debug\net6.0\StandardTest.AssemblyInfo.cs
+D:\Work\大三下\.Net\期末\proj\StandardTest\StandardTest\obj\Debug\net6.0\StandardTest.csproj.CoreCompileInputs.cache
+D:\Work\大三下\.Net\期末\proj\StandardTest\StandardTest\obj\Debug\net6.0\StandardTest.dll
+D:\Work\大三下\.Net\期末\proj\StandardTest\StandardTest\obj\Debug\net6.0\refint\StandardTest.dll
+D:\Work\大三下\.Net\期末\proj\StandardTest\StandardTest\obj\Debug\net6.0\StandardTest.pdb
+D:\Work\大三下\.Net\期末\proj\StandardTest\StandardTest\obj\Debug\net6.0\StandardTest.genruntimeconfig.cache
+D:\Work\大三下\.Net\期末\proj\StandardTest\StandardTest\obj\Debug\net6.0\ref\StandardTest.dll

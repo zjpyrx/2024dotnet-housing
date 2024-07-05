@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  GeoCalculator.cpp
+  GeoLibCppCli.cpp
+  正在生成代码...
+  .NETCoreApp,Version=v6.0.AssemblyAttributes.cpp
+  AssemblyInfo.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+  GeoLibCppCli.vcxproj -> D:\Work\大三下\.Net\期末\proj\GeoLibCppCli\x64\Debug\GeoLibCppCli.dll

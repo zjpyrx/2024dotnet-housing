@@ -1,0 +1,10 @@
+D:\Work\大三下\.Net\期末\proj\UserTools\NewsTools\bin\Debug\NewsTools.dll
+D:\Work\大三下\.Net\期末\proj\UserTools\NewsTools\bin\Debug\NewsTools.pdb
+D:\Work\大三下\.Net\期末\proj\UserTools\NewsTools\bin\Debug\HtmlAgilityPack.dll
+D:\Work\大三下\.Net\期末\proj\UserTools\NewsTools\bin\Debug\HtmlAgilityPack.pdb
+D:\Work\大三下\.Net\期末\proj\UserTools\NewsTools\bin\Debug\HtmlAgilityPack.xml
+D:\Work\大三下\.Net\期末\proj\UserTools\NewsTools\obj\Debug\NewsTools.csproj.AssemblyReference.cache
+D:\Work\大三下\.Net\期末\proj\UserTools\NewsTools\obj\Debug\NewsTools.csproj.CoreCompileInputs.cache
+D:\Work\大三下\.Net\期末\proj\UserTools\NewsTools\obj\Debug\NewsTools.csproj.CopyComplete
+D:\Work\大三下\.Net\期末\proj\UserTools\NewsTools\obj\Debug\NewsTools.dll
+D:\Work\大三下\.Net\期末\proj\UserTools\NewsTools\obj\Debug\NewsTools.pdb
