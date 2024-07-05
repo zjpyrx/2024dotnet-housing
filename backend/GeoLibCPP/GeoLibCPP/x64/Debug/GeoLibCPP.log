@@ -1,8 +1,0 @@
-﻿  CryptoLib.cpp
-D:\Work\大三下\.Net\期末\proj\GeoLibCPP\GeoLibCPP\CryptoLib.cpp(16,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-D:\Work\大三下\.Net\期末\proj\GeoLibCPP\GeoLibCPP\CryptoLib.cpp(26,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  dllmain.cpp
-  UserFunc.cpp
-  正在生成代码...
-    正在创建库 D:\Work\大三下\.Net\期末\proj\GeoLibCPP\x64\Debug\GeoLibCPP.lib 和对象 D:\Work\大三下\.Net\期末\proj\GeoLibCPP\x64\Debug\GeoLibCPP.exp
-  GeoLibCPP.vcxproj -> D:\Work\大三下\.Net\期末\proj\GeoLibCPP\x64\Debug\GeoLibCPP.dll

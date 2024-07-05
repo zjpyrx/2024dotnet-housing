@@ -1,5 +1,0 @@
-D:\Work\大三下\.Net\期末\proj\GeoLibCppCli\x64\Release\Ijwhost.dll
-D:\Work\大三下\.Net\期末\proj\GeoLibCppCli\x64\Release\GeoLibCppCli.deps.json
-D:\Work\大三下\.Net\期末\proj\GeoLibCppCli\x64\Release\GeoLibCppCli.runtimeconfig.json
-D:\Work\大三下\.Net\期末\proj\GeoLibCppCli\GeoLibCppCli\x64\Release\GeoLibCppCli.vcxproj.AssemblyReference.cache
-D:\Work\大三下\.Net\期末\proj\GeoLibCppCli\GeoLibCppCli\x64\Release\GeoLibCppCli.genruntimeconfig.cache
